@@ -1,0 +1,15 @@
+{
+	"TaskName":"retrieval",
+	"Modality": "MR",
+	"MagneticFieldStrength": 3,
+	"Manufacturer": "Siemens",
+	"InstitutionName": "Beijing Normal University",
+	"InstitutionalDepartmentName": "State Key Laboratory of Cognitive Neuroscience and Learning",
+	"InstitutionAddress": "19 Xinjiekouwai Avenue, Haidian Beijing, China",
+    "DeviceSerialNumber": "100875",
+    "MRAcquisitionType": "2D",
+	"SliceThickness": 3.0,
+	"EchoTime": 0.0025,
+	"RepetitionTime": 2.0,
+	"FlipAngle": 90
+}
